@@ -4,14 +4,8 @@
   <img src="https://img.shields.io/badge/Desenvolvedor-FullStack-0A66C2?style=for-the-badge"/>
 </p>
 
----
 
-Me chamo **Lucas**, sou desenvolvedor em formação apaixonado por tecnologia e criação de projetos web.  
-Atualmente estou focado em desenvolvimento **Full Stack**, criando aplicações modernas, consumindo APIs e construindo interfaces responsivas.
-
----
-
-## 📫 Contato
+## Contato
 
 <p align="left">
   <a href="https://www.instagram.com/lucasrafael.dev/" target="_blank">
@@ -24,7 +18,7 @@ Atualmente estou focado em desenvolvimento **Full Stack**, criando aplicações 
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
