@@ -31,7 +31,7 @@
 </p>
 
 
-## 🚀 Projetos
+## Projetos
 
-- 🎬 **Moovle** → Jogo de adivinhar filmes usando API  
-- 🧰 **Codestage.pro** → Plataforma com várias ferramentas web  
+- 🎬 **Moovle** → Jogo de adivinhar filmes 
+- 🧰 **Codestage.pro** →Ferramentas web  
